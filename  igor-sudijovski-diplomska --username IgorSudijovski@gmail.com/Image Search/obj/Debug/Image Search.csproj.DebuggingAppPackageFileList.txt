@@ -1,2 +1,0 @@
-bin\Debug\OfficeAppManifests\Image SearchManifest.xml
-c:\users\sudij_000\documents\visual studio 2012\Projects\Image Search\Image Search\bin\Debug\Image Search.debugapp
