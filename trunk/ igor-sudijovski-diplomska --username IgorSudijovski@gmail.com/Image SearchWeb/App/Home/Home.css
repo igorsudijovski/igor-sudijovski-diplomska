@@ -1,0 +1,18 @@
+﻿#foundImages {
+    padding:5px;
+    margin-top:10px;
+}
+.image {
+    padding-left:20px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-bottom:2px solid #2a8dd4;
+}
+.image img {
+    max-height:100px;
+    max-width:130px;
+    margin-left: 50px;
+}
+.image span {
+    display:block;
+}
