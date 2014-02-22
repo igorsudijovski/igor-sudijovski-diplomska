@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Search", "Image Search\Image Search.csproj", "{33686394-43E3-4C9A-8053-33C34AED8C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image SearchWeb", "Image SearchWeb\Image SearchWeb.csproj", "{DE9AF57A-2721-426C-BBE9-B5E2165F0068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33686394-43E3-4C9A-8053-33C34AED8C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33686394-43E3-4C9A-8053-33C34AED8C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33686394-43E3-4C9A-8053-33C34AED8C81}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{33686394-43E3-4C9A-8053-33C34AED8C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33686394-43E3-4C9A-8053-33C34AED8C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33686394-43E3-4C9A-8053-33C34AED8C81}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DE9AF57A-2721-426C-BBE9-B5E2165F0068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9AF57A-2721-426C-BBE9-B5E2165F0068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9AF57A-2721-426C-BBE9-B5E2165F0068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9AF57A-2721-426C-BBE9-B5E2165F0068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
