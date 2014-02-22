@@ -1,5 +1,0 @@
-c:\users\sudij_000\documents\visual studio 2012\Projects\Image Search\Image SearchWeb\bin\Image SearchWeb.dll
-c:\users\sudij_000\documents\visual studio 2012\Projects\Image Search\Image SearchWeb\bin\Image SearchWeb.pdb
-c:\users\sudij_000\documents\visual studio 2012\Projects\Image Search\Image SearchWeb\obj\Debug\Image SearchWeb.csprojResolveAssemblyReference.cache
-c:\users\sudij_000\documents\visual studio 2012\Projects\Image Search\Image SearchWeb\obj\Debug\Image SearchWeb.dll
-c:\users\sudij_000\documents\visual studio 2012\Projects\Image Search\Image SearchWeb\obj\Debug\Image SearchWeb.pdb
